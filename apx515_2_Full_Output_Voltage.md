@@ -24,7 +24,8 @@ apx515\_2\_Full\_Scale\_Output\_Voltage : FSOV值測量
     ![](https://i.imgur.com/vN0OQJs.png)
 
     -   雙擊後可至等級設定 
-       ![](https://i.imgur.com/keYBKV4.png)
+        
+        ![](https://i.imgur.com/keYBKV4.png)
         ![](https://i.imgur.com/9dD1eoV.png)
 
 3.  開啟 Wave 檔 Full Scale Output

@@ -10,7 +10,7 @@ apx515\_3\_ Sample\_Frequency\_Accuracy & Magnitude\_Response
 
     2.  PC 音量控制：維持FSOV測試時 的位置不變。
     3.  開啟 Wave 檔 **Full Scale Output Voltage-48K-16b.wav**，並設定成
-        反覆播放模式。\
+        反覆播放模式。
     4.  播放 Wave 檔，在 APx500 軟體右側的觀測區可以看到 Sample
         Frequency Accuracy ， 該值的允許 誤差為± 0.02%，因此 量測值應介
         於 **99.98% ～ 100.02% **之間。
@@ -27,7 +27,7 @@ apx515\_3\_ Sample\_Frequency\_Accuracy & Magnitude\_Response
 3.  開啟 Wave 檔 **Line-out Magnitude
     Response-M48k.wav，取消反覆播放模式**。
 
-4.  用滑鼠點選**start** 後，播放 Wave 檔即可量測得 Magnitude Response。
+4.  用滑鼠點選**start**![](https://i.imgur.com/C3aR7Sq.png) 後，播放 Wave 檔即可量測得 Magnitude Response。
 
 5.  用滑鼠點選 APx500 軟體左側 Navigator 區 Magnitude Response 之下的
     Phase 項 目，可觀測 Interchannel phase difference。
@@ -40,4 +40,9 @@ apx515\_3\_ Sample\_Frequency\_Accuracy & Magnitude\_Response
 
     ![](https://i.imgur.com/RqHOmgp.png)
 
+
+
+* gif :
+
+  ![](https://i.imgur.com/AVUDBAW.gif)
 

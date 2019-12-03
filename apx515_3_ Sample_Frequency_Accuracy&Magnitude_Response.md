@@ -38,6 +38,6 @@ apx515\_3\_ Sample\_Frequency\_Accuracy & Magnitude\_Response
 
     -   Interchannel phase difference
 
-    ![image-20191202154154325](C:\Users\iec081103\AppData\Roaming\Typora\typora-user-images\image-20191202154154325.png)
+    ![](https://i.imgur.com/RqHOmgp.png)
 
 

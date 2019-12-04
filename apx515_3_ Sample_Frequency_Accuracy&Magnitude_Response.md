@@ -24,9 +24,8 @@ apx515\_3\_ Sample\_Frequency\_Accuracy & Magnitude\_Response
 
 2.  PC 音量控制：維持FSOV測試 時的位置不變。
 
-3.  開啟 Wave 檔 **Line-out Magnitude
-    Response-M48k.wav，取消反覆播放模式**。
-
+3.  開啟 Wave 檔 **Line-out Magnitude Response-M48k.wav，取消反覆播放模式**。
+    
 4.  用滑鼠點選**start**![](https://i.imgur.com/C3aR7Sq.png) 後，播放 Wave 檔即可量測得 Magnitude Response。
 
 5.  用滑鼠點選 APx500 軟體左側 Navigator 區 Magnitude Response 之下的

@@ -30,4 +30,4 @@ apx515\_4\_THD+N\_vs\_Frequency & Dynamic Range With Signal Present
 
   4. 播放 Wave 檔，即可於觀測區中顯示 Dynamic Range 值。
 
-     ![image-20191203152619598](C:\Users\iec081103\AppData\Roaming\Typora\typora-user-images\image-20191203152619598.png)
+     ![](https://i.imgur.com/9OKKIAg.png)

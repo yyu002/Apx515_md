@@ -26,18 +26,22 @@ apx515\_3\_ Sample\_Frequency\_Accuracy & Magnitude\_Response
 
 3.  開啟 Wave 檔 **Line-out Magnitude Response-M48k.wav，取消反覆播放模式**。
     
-4.  用滑鼠點選**start**![](https://i.imgur.com/C3aR7Sq.png) 後，播放 Wave 檔即可量測得 Magnitude Response。
+4. signal definition 調整成**Line-out Magnitude Response-M48k.wav**
 
-5.  用滑鼠點選 APx500 軟體左側 Navigator 區 Magnitude Response 之下的
-    Phase 項 目，可觀測 Interchannel phase difference。
+   ![](https://i.imgur.com/A3qWb9g.png)
 
-    -   Magnitude Response
+5. 用滑鼠點選**start**![](https://i.imgur.com/C3aR7Sq.png) 後，播放 Wave 檔即可量測得 Magnitude Response。
 
-    ![](https://i.imgur.com/HYyCHnr.png)
+6. 用滑鼠點選 APx500 軟體左側 Navigator 區 Magnitude Response 之下的
+   Phase 項 目，可觀測 Interchannel phase difference。
 
-    -   Interchannel phase difference
+   -   Magnitude Response
 
-    ![](https://i.imgur.com/RqHOmgp.png)
+   ![](https://i.imgur.com/HYyCHnr.png)
+
+   -   Interchannel phase difference
+
+   ![](https://i.imgur.com/RqHOmgp.png)
 
 
 
@@ -45,3 +49,4 @@ apx515\_3\_ Sample\_Frequency\_Accuracy & Magnitude\_Response
 
   ![](https://i.imgur.com/AVUDBAW.gif)
 
+# 

@@ -17,5 +17,5 @@
 
      ![](https://i.imgur.com/WLK59w6.png)
 
-  3. 開啟範例 **Line-out Interchannel Phase Delay.xlsx**，套用 sec 欄位公式將 deg 欄位的角度值換算成延遲時間。 (此xlsx檔可能損毀，只看到數值)
+  3. 開啟範例 **Line-out Interchannel Phase Delay.xlsx**，套用 sec 欄位公式將 deg 欄位的角度值換算成延遲時間。 (沒有這個檔也沒有公式)
 

@@ -8,13 +8,40 @@ Apx515-儀器與資源網站
 -   主機圖片:
     ![](http://cn.ap.com/upfile/image/20181219/20181219115019_68436.jpg)
 -   配件:
-    -   電源線
-    -   PC interface線(轉USB)
-    -   音訊線
-    -   負載電阻(4)
-    -   光碟
-    -   隨身碟
-    -   麥克風
+    - 電源線
+    
+      ![](https://images.plurk.com/4YjAn2ovfFDS0NvdxRHvly.jpg)
+    
+    - PC interface線(轉USB)
+    
+      ![](https://images.plurk.com/2LD1A6OxTsMH3SIMUjl5CC.jpg)
+    
+    - 音訊線
+    
+      ![](https://images.plurk.com/49tSV0kkHQR0iCMoKTqh3o.jpg)
+    
+    - 負載電阻(4)
+    
+      ![](https://images.plurk.com/49tSV0kkHQR0iCMoKTqh3o.jpg)
+    
+      ![](https://images.plurk.com/7itC6jiLiZdOHsxcLjx6rN.jpg)
+    
+    - 光碟
+    
+      ![](https://images.plurk.com/YhVBB4hwrCHf5qfRSwt2S.jpg)
+    
+    - 隨身碟
+    
+      ![](https://images.plurk.com/4NXdCIO7SMxAw22h5Bsaf6.jpg)
+    
+    - 麥克風
+    
+      ![](https://images.plurk.com/3kXAtKBtxQDylJbhyNfw28.jpg)
+      
+    - 光纖音訊線
+      
+      ![](https://images.plurk.com/3unMAu7EGePCrRAhxiMEfu.jpg)
+      ![](https://images.plurk.com/1lKcxwTExPQLv4Ar9Gbokc.jpg)
 
 ### 網站資源 :
 

@@ -20,8 +20,7 @@
 -  Crosstalk vs Frequency (Right to Left)   
 
   1.  用滑鼠點選 APx500 軟體左側 Navigator 區 Crosstalk vs Frequency (Right to Left)。
-
-     ![](https://i.imgur.com/evP2SIJ.png)
+  ![](https://i.imgur.com/evP2SIJ.png)
 
   2.  PC 音量控制：維持FSOV測試時 的位置不變。 
 

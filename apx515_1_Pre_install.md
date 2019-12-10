@@ -11,13 +11,17 @@ apx515\_1\_Pre\_install : 測試環境軟硬體安裝設定
     -   附贈之光碟:光碟裝有軟體與測試音訊檔
 
     -   雲端檔案 :
-    	-  官網下載 : Apx500 (連結為5.0)
-        https://www.ap.com/download/apx500-measurement-software-24/
-        註冊登入後即可下載，解壓縮後運行APx500Setup安裝
-    	-  WAVE檔 :
-        進入共享檔連結(Dropbox):https://www.dropbox.com/s/6j1ci4fw0qzwg3n/PC%20Audio%20Test%20For%20APx500.rar?dl=0
-		- 並下載
+    	- 官網下載 : Apx500 (連結為5.0)
+          https://www.ap.com/download/apx500-measurement-software-24/
+          註冊登入後即可下載，解壓縮後運行APx500Setup安裝
+    	
+        - WAVE檔 :
+		  進入共享檔連結(Dropbox):https://www.dropbox.com/s/6j1ci4fw0qzwg3n/PC%20Audio%20Test%20For%20APx500.rar?dl=0
 
+		- 並下載
+		
+		   ![](https://i.imgur.com/B5tBMxG.png)
+		
 		- PDF為Apx的代理公司所寫教學，把檔案解壓縮即可找到.wave與寫好的project
 		 ![](https://i.imgur.com/ZkDZV1Q.png)
 

@@ -1,4 +1,4 @@
-# apx515_ 手動調整 wave mixer 的位置： 
+# apx515_8_手動調整 wave mixer 的位置： 
 
 
 - 注意先開啟專案 PC Audio Playback Performance Test.approjx

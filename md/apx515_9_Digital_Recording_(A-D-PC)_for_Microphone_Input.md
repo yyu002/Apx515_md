@@ -1,4 +1,4 @@
-# apx515_ Digital Recording (A-D-PC) for Microphone Input   
+# apx515_9_Digital Recording (A-D-PC) for Microphone Input   
 
 
 -  接線方式說明

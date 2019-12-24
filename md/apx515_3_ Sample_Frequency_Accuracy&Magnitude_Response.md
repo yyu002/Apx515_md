@@ -45,8 +45,7 @@ apx515\_3\_ Sample\_Frequency\_Accuracy & Magnitude\_Response
 
 
 
-* gif :
+* gif :https://camo.githubusercontent.com/740ff4d996d119bdbba8cce2a8ccc71b71e4e76a/68747470733a2f2f692e696d6775722e636f6d2f415655444241572e676966
 
   ![](https://i.imgur.com/AVUDBAW.gif)
 
-# 

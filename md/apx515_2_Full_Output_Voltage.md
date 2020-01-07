@@ -42,10 +42,6 @@ apx515\_2\_Full\_Scale\_Output\_Voltage : FSOV值測量
 
  ![](https://i.imgur.com/byY2IEr.png)
 
- (2) 用滑鼠點擊 **[Set dBr...]**，於跳出的 **Set dBrA, dBrB
-**對話框中分別用 滑鼠點擊**[Set A]**和**[Set B]**，即可 記錄 Full Scale
-Output Voltage (以下簡稱 FSOV) 值，同時也完成了 dBrA 和 dBrB 參 數
-的設定，0 dBrA 和 0 dBrB 分別為 Ch A 和 Ch B 的 Full Scale Output
-Voltage，設定後點 擊 **[Close]**。
+ (2) 用滑鼠點擊 **[Set dBr...]**，於跳出的 **Set dBrA, dBrB**，對話框中分別用 滑鼠點擊**[Set A]**和**[Set B]**，即可 記錄 Full Scale Output Voltage (以下簡稱 FSOV) 值，同時也完成了 dBrA 和 dBrB參數的設定，0 dBrA 和 0 dBrB 分別為 Ch A 和 Ch B 的 Full Scale Output Voltage，設定後點 擊 **[Close]**。
 
 ![](https://i.imgur.com/wcjGTwe.png)
